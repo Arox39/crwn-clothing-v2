@@ -1,0 +1,19 @@
+.nav 
+{
+    height: 12.6vh;
+    width: 87.5vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .nav-links 
+    {
+        width: 10%;
+        display: flex;
+        font-size: 20px;
+        justify-content: space-between;
+    }
+
+
+}
